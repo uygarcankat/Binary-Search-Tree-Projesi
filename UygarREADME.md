@@ -1,5 +1,5 @@
 
-# Binary Search Tree Projesi
+# Binary Search Tree Project
 
 https://app.patika.dev/uygarcankat
 
